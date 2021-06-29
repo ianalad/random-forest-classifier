@@ -8,3 +8,6 @@ The goal of this project is to apply a random forest classifier to predict stude
 2. Step 2 - Split Dataset into Training and Test Datasets
 3. Step 3 - Train the Model
 4. Step 4 - Performance Evaluation
+
+## Authors
+Iana Ladygina
